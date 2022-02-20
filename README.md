@@ -3,7 +3,7 @@
 ## Argparseでコマンドライン引数をパース
 
 ### 位置引数の場合
-nargs
+nargsを使って複数の引数を指定することも可能です。
 
     python cli_args_position.py 1 aaa
 
